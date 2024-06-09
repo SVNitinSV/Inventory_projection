@@ -1,6 +1,6 @@
 # Inventory_projection
 
-### 1. Warehouse-Inventory Item Analysis Using Time Series and NLP Techniques
+### Warehouse-Inventory Item Analysis Using Time Series and NLP Techniques
 This project focuses on analyzing warehouse inventory items to predict demand and optimize stock levels. Key components include:
 
 - **Time Series Analysis and Forecasting:**
